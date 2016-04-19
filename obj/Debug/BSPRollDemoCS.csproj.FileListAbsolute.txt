@@ -1,0 +1,20 @@
+C:\Program Files\NITGEN eNBSP x64\SDK\Samples\dotNET\C#\BSPRollDemoCS\bin\Debug\BSPRollDemoCS.exe
+C:\Program Files\NITGEN eNBSP x64\SDK\Samples\dotNET\C#\BSPRollDemoCS\bin\Debug\BSPRollDemoCS.pdb
+C:\Program Files\NITGEN eNBSP x64\SDK\Samples\dotNET\C#\BSPRollDemoCS\obj\Debug\BSPRollDemoCS.Form1.resources
+C:\Program Files\NITGEN eNBSP x64\SDK\Samples\dotNET\C#\BSPRollDemoCS\obj\Debug\BSPRollDemoCS.csproj.GenerateResource.Cache
+C:\Program Files\NITGEN eNBSP x64\SDK\Samples\dotNET\C#\BSPRollDemoCS\obj\Debug\BSPRollDemoCS.exe
+C:\Program Files\NITGEN eNBSP x64\SDK\Samples\dotNET\C#\BSPRollDemoCS\obj\Debug\BSPRollDemoCS.pdb
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\BSPRollDemoCS.csproj.GenerateResource.Cache
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\BSPRollDemoCS.Properties.Resources.resources
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\BSPRollDemoCS.Form1.resources
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\info-sys.exe
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\info-sys.pdb
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\info-sys.exe
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\info-sys.pdb
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\MetroFramework.Design.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\MetroFramework.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\AForge.Video.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\BSPRollDemoCS.csprojResolveAssemblyReference.cache
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\infosys.Properties.Resources.resources

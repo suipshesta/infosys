@@ -1,0 +1,47 @@
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\infosys.Properties.Resources.resources
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\infosys.csproj.GenerateResource.Cache
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\info-sys.exe
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\infosys.Form1.resources
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\info-sys.exe
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\info-sys.pdb
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\AForge.Video.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\MetroFramework.Design.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\MetroFramework.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\BSPRollDemoCS\obj\Debug\info-sys.pdb
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\obj\Debug\info-sys.exe
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\obj\Debug\info-sys.pdb
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\bin\Debug\info-sys.exe
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\bin\Debug\info-sys.pdb
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\bin\Debug\AForge.Video.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\bin\Debug\MetroFramework.Design.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\bin\Debug\MetroFramework.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\obj\Debug\infosys.Form1.resources
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\obj\Debug\infosys.Properties.Resources.resources
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\obj\Debug\infosys.csproj.GenerateResource.Cache
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\obj\Debug\infosys.profile_form.resources
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\obj\Debug\infosys.internet_search_form.resources
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\obj\Debug\infosys.csprojResolveAssemblyReference.cache
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\bin\Debug\info-sys.exe.manifest
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\bin\Debug\info-sys.application
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\obj\Debug\info-sys.exe.manifest
+C:\Users\suip\Documents\Visual Studio 2013\Projects\infosys\obj\Debug\info-sys.application
+F:\Projects\infosys\obj\Debug\info-sys.exe
+F:\Projects\infosys\obj\Debug\info-sys.pdb
+F:\Projects\infosys\bin\Debug\info-sys.exe.manifest
+F:\Projects\infosys\bin\Debug\info-sys.application
+F:\Projects\infosys\bin\Debug\info-sys.exe
+F:\Projects\infosys\bin\Debug\info-sys.pdb
+F:\Projects\infosys\bin\Debug\AForge.Video.DirectShow.dll
+F:\Projects\infosys\bin\Debug\AForge.Video.dll
+F:\Projects\infosys\obj\Debug\infosys.Form1.resources
+F:\Projects\infosys\obj\Debug\infosys.internet_search_form.resources
+F:\Projects\infosys\obj\Debug\infosys.profile_form.resources
+F:\Projects\infosys\obj\Debug\infosys.Properties.Resources.resources
+F:\Projects\infosys\obj\Debug\infosys.csproj.GenerateResource.Cache
+F:\Projects\infosys\obj\Debug\info-sys.exe.manifest
+F:\Projects\infosys\obj\Debug\info-sys.application
+F:\Projects\infosys\obj\Debug\infosys.csprojResolveAssemblyReference.cache
